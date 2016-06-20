@@ -1,0 +1,6 @@
+*.exe
+*.dll
+*.depend
+*.layout
+*.o
+*.cbp
